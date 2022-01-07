@@ -1,0 +1,25 @@
+.ReviewsContainer {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ReviewsList {
+  list-style: none;
+  font-size: 20px;
+}
+
+.ReviewsItem {
+  margin-bottom: 20px;
+}
+
+.ReviewsAuthor {
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.ReviewsDescription {
+  font-style: italic;
+  margin-bottom: 40px;
+}

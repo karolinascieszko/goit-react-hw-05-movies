@@ -1,0 +1,80 @@
+.ButtonBack {
+  display: block;
+  width: 120px;
+  height: 40px;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ButtonBack:hover {
+  background-color: orange;
+  color: white;
+}
+
+.MoviePoster {
+  width: 250px;
+  margin-right: 50px;
+  margin-left: 30px;
+}
+
+.OrginalTitle {
+  color: black;
+  margin-bottom: 25px;
+}
+
+.Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 80px;
+}
+
+.VoteAverage {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.OverviewTitle,
+.GenresTitle {
+  font-size: 25px;
+}
+
+.OverviewDescription,
+.GenresDescription {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.ListLink {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  font-size: 30px;
+}
+
+.ListItem {
+  margin-right: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  width: 120px;
+  text-align: center;
+  margin-bottom: 45px;
+}
+.ListItem:hover {
+  background-color: orange;
+}
+
+.ListLink {
+  text-decoration: none;
+  color: #000;
+}
+
+.ListLink:hover {
+  color: #fff;
+}
